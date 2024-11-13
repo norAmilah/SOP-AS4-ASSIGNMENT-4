@@ -6,6 +6,10 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "ext-bcmath": "*",
+        "ext-mbstring": "*",
+        "ext-pdo_sqlite": "*",
+        "ext-sqlite3": "*",
         "laravel/framework": "^11.9",
         "laravel/tinker": "^2.9"
     },
